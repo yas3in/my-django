@@ -4,4 +4,6 @@ venv/
 
 local_*
 
-
+*.db
+*.sqlite3
+*.sqlite
